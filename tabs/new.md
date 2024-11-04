@@ -21,6 +21,9 @@ type: news
 
 ## **2024**
 
+>Nov
+>> - New preprint out, Chandra et al. ["Integer programming framework for pangenome-based genome inference"](https://doi.org/10.1101/2024.10.27.620212)
+
 >Oct
 >> - Sudhanva's work ["Telomere-to-telomere assembly by preserving contained reads"](https://doi.org/10.1101/gr.279311.124) accepted in Genome Research (Long-read special issue)
 >> - Chirag will present at the ACM Winter School on _Data Structures and Algorithms for Strings_ in December. [Details](https://docs.google.com/document/d/1NR3BE_NV4kqBF7v5qxFxnm1MP1fMHlyl/edit) and [registration link](https://docs.google.com/forms/d/1Uo-xzpUelEclwUY3VkkWHFsZ9S9QkQUb20uW6c7bQDk/edit)
