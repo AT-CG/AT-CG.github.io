@@ -18,7 +18,17 @@ type: archives
 
 ### Citation statistics can be accessed using [Google Scholar](https://scholar.google.com/citations?user=Y2UmkF0AAAAJ&hl=en)
 
-<!--  #### **Preprints**   -->
+#### **Preprints**
+
+* **Integer programming framework for pangenome-based genome inference** <br>
+G Chandra, M Hossen, S Scholz, A Dilthey, D Gibney, <u>C Jain</u>. _bioRxiv_
+<br>
+<button type="button" class="btn btn-outline-info btn-sm">
+<a href="https://doi.org/10.1101/2024.10.27.620212" style="all: unset; color: inherit">Preprint</a>
+</button> 
+<button type="button" class="btn btn-outline-secondary btn-sm">
+<a href="https://github.com/at-cg/PHI" style="all: unset; color: inherit">Code</a>
+</button>
 
 
 
