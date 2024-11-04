@@ -23,6 +23,7 @@ type: news
 
 >Nov
 >> - New preprint out, Chandra et al. ["Integer programming framework for pangenome-based genome inference"](https://doi.org/10.1101/2024.10.27.620212)
+>> - Serving as PC member of [RECOMB](https://recomb.org/recomb2025/), [HiPC SRS](https://www.hipc.org/student-research-symposium/)
 
 >Oct
 >> - Sudhanva's work ["Telomere-to-telomere assembly by preserving contained reads"](https://doi.org/10.1101/gr.279311.124) accepted in Genome Research (Long-read special issue)
