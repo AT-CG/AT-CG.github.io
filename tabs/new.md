@@ -22,7 +22,8 @@ type: news
 ## **2024**
 
 >Nov
->> - New preprint out, Chandra et al. ["Integer programming framework for pangenome-based genome inference"](https://doi.org/10.1101/2024.10.27.620212)
+>> - New preprint, Chandra et al. ["Accelerating whole-genome alignment in the age of complete genome assemblies"](https://doi.org/10.1101/2024.11.25.625328)
+>> - New preprint, Chandra et al. ["Integer programming framework for pangenome-based genome inference"](https://doi.org/10.1101/2024.10.27.620212)
 >> - Serving as PC member of [RECOMB](https://recomb.org/recomb2025/), [HiPC SRS](https://www.hipc.org/student-research-symposium/)
 
 >Oct
