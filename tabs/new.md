@@ -24,7 +24,9 @@ type: news
 >Nov
 >> - New preprint, Chandra et al. ["Accelerating whole-genome alignment in the age of complete genome assemblies"](https://doi.org/10.1101/2024.11.25.625328)
 >> - New preprint, Chandra et al. ["Integer programming framework for pangenome-based genome inference"](https://doi.org/10.1101/2024.10.27.620212)
->> - Serving as PC member of [RECOMB](https://recomb.org/recomb2025/), [HiPC SRS](https://www.hipc.org/student-research-symposium/)
+>> - Chirag gives invited talk at the inaugural event of Strand Life Sciences. Slides [here](https://drive.google.com/file/d/1JAVjAr6dQlkpg7Xd4F3CPsgLZFRBg_iP/view?usp=sharing).
+>> - Sudhanva and Daanish present their work at the Pennsylvania State University as part of the IISc-PSU collaboration 
+>> - Chirag is serving as PC member of [RECOMB](https://recomb.org/recomb2025/), [HiPC SRS](https://www.hipc.org/student-research-symposium/)
 
 >Oct
 >> - Sudhanva's work ["Telomere-to-telomere assembly by preserving contained reads"](https://doi.org/10.1101/gr.279311.124) accepted in Genome Research (Long-read special issue)
