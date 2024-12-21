@@ -18,6 +18,10 @@
   icon: "fas fa-archive"
   path: tabs
   url: publications
+- name: "Teaching"
+  icon: "fas fa-chalkboard-teacher"
+  path: tabs
+  url: teaching
 - name: "Software"
   icon: "fa fa-desktop"
   path: tabs

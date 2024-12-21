@@ -163,6 +163,10 @@ exclude:
   - README.md
   - LICENSE
 
+collections:
+  courses:
+    output: true
+
 sitemap_exclude: # Sitemap will exclude the following items.
   fuzzy:
     - /assets/
