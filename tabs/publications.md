@@ -30,8 +30,10 @@ G Chandra, M Vasimuddin, S Misra, <u>C Jain</u>. _bioRxiv_
 <a href="https://github.com/at-cg/mm2-plus" style="all: unset; color: inherit">Code</a>
 </button>
 
+#### **2025**
+
 * **Integer programming framework for pangenome-based genome inference** <br>
-G Chandra, M Hossen, S Scholz, A Dilthey, D Gibney, <u>C Jain</u>. _bioRxiv_
+G Chandra, M Hossen, S Scholz, A Dilthey, D Gibney, <u>C Jain</u>. _RECOMB (accepted)_
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
 <a href="https://doi.org/10.1101/2024.10.27.620212" style="all: unset; color: inherit">Preprint</a>
@@ -39,8 +41,6 @@ G Chandra, M Hossen, S Scholz, A Dilthey, D Gibney, <u>C Jain</u>. _bioRxiv_
 <button type="button" class="btn btn-outline-secondary btn-sm">
 <a href="https://github.com/at-cg/PHI" style="all: unset; color: inherit">Code</a>
 </button>
-
-
 
 #### **2024**
 
@@ -68,7 +68,7 @@ D Mahajan, <u>C Jain</u>, N Kashyap. _IEEE ISIT_
 </button>
 
 * **Haplotype-aware sequence alignment to pangenome graphs** <br>
-G Chandra, D Gibney, <u>C Jain</u>. _Genome Research (RECOMB'24 special issue)_
+G Chandra, D Gibney, <u>C Jain</u>. _Genome Research (extended abstract appeared in RECOMB'24)_
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
 <a href="https://drive.google.com/file/d/1hjP-yl7Xl1y-EPKXGhBEyY5A6eiVWMIV/view?usp=share_link" style="all: unset; color: inherit">Paper</a>
