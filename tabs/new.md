@@ -28,7 +28,8 @@ type: news
 
 >Dec
 >> - Parvesh presents poster at the HiPC Student Research Symposium
->> - [Paper](https://doi.org/10.1101/2024.10.27.620212) accepted at [RECOMB 2025](https://recomb.org/recomb2025) (acceptance rate: 16%) 
+>> - [Paper](https://doi.org/10.1101/2024.10.27.620212) accepted at [RECOMB 2025](https://recomb.org/recomb2025) (acceptance rate: 16%)
+>> - [NERSC](https://www.nersc.gov) awards allocation on [Perlmutter](https://docs.nersc.gov/systems/perlmutter/architecture/) supercomputer to our lab 
 
 >Nov
 >> - New preprint, Chandra et al. ["Accelerating whole-genome alignment in the age of complete genome assemblies"](https://doi.org/10.1101/2024.11.25.625328)
@@ -36,6 +37,7 @@ type: news
 >> - Chirag gives invited talk at the inaugural event of Strand Life Sciences. Slides [here](https://drive.google.com/file/d/1JAVjAr6dQlkpg7Xd4F3CPsgLZFRBg_iP/view?usp=sharing).
 >> - Sudhanva and Daanish [present their work](https://drive.google.com/file/d/1QXIqZTusW_mvtSSaO8doZ7dnHBMyBCXH/view?usp=share_link) at the Pennsylvania State University as part of the [IISc-PSU collaboration](https://www.psu.edu/news/global-programs/story/penn-state-indian-institute-science-award-joint-research-seed-grants) 
 >> - Chirag is serving as PC member of [RECOMB](https://recomb.org/recomb2025/), [HiPC SRS](https://www.hipc.org/student-research-symposium/)
+>> - Research proposal selected for funding by the [Kotak IISc AI–ML Centre](https://kiac.iisc.ac.in)
 
 >Oct
 >> - Sudhanva's work ["Telomere-to-telomere assembly by preserving contained reads"](https://doi.org/10.1101/gr.279311.124) accepted in Genome Research (Long-read special issue)
