@@ -27,6 +27,7 @@ type: news
 ## **2024**
 
 >Dec
+>> - Parvesh presents poster at the HiPC Student Research Symposium
 >> - [Paper](https://doi.org/10.1101/2024.10.27.620212) accepted at [RECOMB 2025](https://recomb.org/recomb2025) (acceptance rate: 16%) 
 
 >Nov
