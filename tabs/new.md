@@ -21,6 +21,9 @@ type: news
 
 ## **2024**
 
+>Jan
+>> - Anandita Mishra joins us as PhD student. Welcome!
+
 >Dec
 >> - [Paper](https://doi.org/10.1101/2024.10.27.620212) accepted at [RECOMB 2025](https://recomb.org/recomb2025) (acceptance rate: 16%) 
 
