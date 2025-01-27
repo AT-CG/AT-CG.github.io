@@ -14,13 +14,15 @@ type: teaching
 
 Courses taught at the Indian Institute of Science:
 - Jan 2025, DS202: Algorithmic Foundations of Big Data Biology
-- Jan 2025, NPTEL, Algorithms in Computational Biology and Sequence Analysis
 - Jan 2024, DS202: Algorithmic Foundations of Big Data Biology
 - Jan 2023, DS202: Algorithmic Foundations of Big Data Biology
 - Aug 2022, DS221: Introduction to Scalable Systems (with Sathish Vadhiyar, Matthew Jacob)
 - Jan 2022, DS202: Algorithmic Foundations of Big Data Biology
 - Aug 2021, DS221: Introduction to Scalable Systems (with Sathish Vadhiyar, Matthew Jacob)
 - Jan 2021, DS202: Algorithmic Foundations of Big Data Biology
+
+Courses taught on NPTEL:
+- Jan 2025, NPTEL, Algorithms in Computational Biology and Sequence Analysis
 
 ---
 
