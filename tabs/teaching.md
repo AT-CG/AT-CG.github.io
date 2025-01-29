@@ -33,3 +33,4 @@ A collection of lecture slides on bioinformatics topics:
 >> - [Suffix array](https://drive.google.com/file/d/1whuUw3BJZRZQI9LRO_Vulg_lkAQWOY90/view?usp=share_link)
 >> - [Suffix array construction using prefix doubling](https://drive.google.com/file/d/15feECn9NO2e9eqbX1ddJ0V_HH9npC_uK/view?usp=share_link)
 >> - [Suffix tree (part 1)](https://drive.google.com/file/d/1hNEmECR_IMglYymHqdO1UJepPsfW4N8V/view?usp=share_link)
+>> - [Suffix tree (part 2](https://drive.google.com/file/d/1ANviXEuTTS5eQmSpXoWUlUxZhfkyjiez/view?usp=sharing)
