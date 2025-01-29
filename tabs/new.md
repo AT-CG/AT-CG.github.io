@@ -23,6 +23,7 @@ type: news
 
 >Jan
 >> - Anandita Mishra joins us as PhD student. Welcome!
+>> - Chirag gives invited talk at the [Pangenome Bio Hacking Workshop](https://algolab.github.io/pgbh2025/). Slides [here](https://drive.google.com/file/d/1DeSMh6EN8KpzoBbDvoxBjSjsaAX0oVWK/view?usp=share_link)
 
 ## **2024**
 
