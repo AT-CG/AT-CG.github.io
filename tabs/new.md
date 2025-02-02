@@ -21,6 +21,10 @@ type: news
 
 ## **2025**
 
+>Feb
+>> - Serving as PC member of [ISMB](https://www.iscb.org/ismbeccb2025/home)
+>> - Chirag gives invited talk at the [Frontiers Symposium in Data Science](https://datascience.iisertvm.ac.in/story/read/conferences-frontiers-symposium-in-data-science-fs-dsc) held at IISER Thiruvananthapuram. Slides [here](https://drive.google.com/file/d/12bu9Vu9ywSZxY_TEUzViY84dDO_YoFH9/view?usp=share_link)
+
 >Jan
 >> - Anandita Mishra joins us as PhD student. Welcome!
 >> - Chirag gives invited talk at the [Pangenome Bio Hacking Workshop](https://algolab.github.io/pgbh2025/). Slides [here](https://drive.google.com/file/d/1DeSMh6EN8KpzoBbDvoxBjSjsaAX0oVWK/view?usp=share_link)
