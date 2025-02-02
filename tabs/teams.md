@@ -180,6 +180,40 @@ type: teams
                 <!-- cards -->
                 <div class="row">
 
+                 <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/Rajarshi.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/rajarshi-mondal/">Rajarshi Mondal</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
+                 <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/SamarthB.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/samarth-bh/">Samarth Bhandary</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
                 <!-- BEGIN CARD -->
                     <div class="col-lg-4 col-md-6">
                         <div class="card shadow-sm border-0">
