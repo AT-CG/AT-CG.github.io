@@ -35,3 +35,4 @@ A collection of lecture slides on bioinformatics topics:
 >> - [Suffix trie](https://drive.google.com/file/d/1hNEmECR_IMglYymHqdO1UJepPsfW4N8V/view?usp=share_link)
 >> - [Suffix tree](https://drive.google.com/file/d/1ANviXEuTTS5eQmSpXoWUlUxZhfkyjiez/view?usp=sharing)
 >> - [Suffix tree construction](https://drive.google.com/file/d/1iLNhfvJbxwstDxrazr2sjIKfxLxP5gE5/view?usp=sharing)
+>> - [Suffix tree applications](https://drive.google.com/file/d/1IXiYWgTpBTzaoMx_TyH9MgW1nKmywowQ/view?usp=share_link)
