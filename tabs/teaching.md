@@ -36,3 +36,4 @@ A collection of lecture slides on bioinformatics topics:
 >> - [Suffix tree](https://drive.google.com/file/d/1ANviXEuTTS5eQmSpXoWUlUxZhfkyjiez/view?usp=sharing)
 >> - [Suffix tree construction](https://drive.google.com/file/d/1iLNhfvJbxwstDxrazr2sjIKfxLxP5gE5/view?usp=sharing)
 >> - [Suffix tree applications](https://drive.google.com/file/d/1IXiYWgTpBTzaoMx_TyH9MgW1nKmywowQ/view?usp=share_link)
+>> - [Burrows Wheeler transform](https://drive.google.com/file/d/1haKGMMSvCQhLc8ugpoj8k2rU6kFJS3sx/view?usp=sharing)
