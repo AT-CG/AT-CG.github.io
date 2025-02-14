@@ -38,3 +38,4 @@ A collection of lecture slides on bioinformatics topics:
 >> - [Suffix tree applications](https://drive.google.com/file/d/1IXiYWgTpBTzaoMx_TyH9MgW1nKmywowQ/view?usp=share_link)
 >> - [Burrows Wheeler Transform (BWT)](https://drive.google.com/file/d/1haKGMMSvCQhLc8ugpoj8k2rU6kFJS3sx/view?usp=sharing)
 >> - [Reversing the BWT](https://drive.google.com/file/d/10D74FIyolzEP91TseQRd1cm8jJGrApTZ/view?usp=share_link)
+>> - [FM-index](https://drive.google.com/file/d/1Nd2Q1kVRobZbf92MSaRVLAzxREmMWG33/view?usp=share_link)
