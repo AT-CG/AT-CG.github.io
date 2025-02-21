@@ -39,3 +39,6 @@ A collection of lecture slides on bioinformatics topics:
 >> - [Burrows Wheeler Transform (BWT)](https://drive.google.com/file/d/1haKGMMSvCQhLc8ugpoj8k2rU6kFJS3sx/view?usp=sharing)
 >> - [Reversing the BWT](https://drive.google.com/file/d/10D74FIyolzEP91TseQRd1cm8jJGrApTZ/view?usp=share_link)
 >> - [FM-index](https://drive.google.com/file/d/1Nd2Q1kVRobZbf92MSaRVLAzxREmMWG33/view?usp=share_link)
+
+>Alignments
+>> - [Edit distance](https://drive.google.com/file/d/1lWFBCLw0IXKL1BDLNG2yFgMH4AWQBI5u/view?usp=share_link)
