@@ -42,3 +42,4 @@ A collection of lecture slides on bioinformatics topics:
 
 >Alignments
 >> - [Edit distance](https://drive.google.com/file/d/1lWFBCLw0IXKL1BDLNG2yFgMH4AWQBI5u/view?usp=share_link)
+>> - [Global and semi-global alignment](https://drive.google.com/file/d/12Wg-j2WIqRtdHJ0IA1B3G9rQT3h2AZ7F/view?usp=sharing)
