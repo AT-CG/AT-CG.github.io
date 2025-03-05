@@ -44,3 +44,4 @@ A collection of lecture slides on bioinformatics topics:
 >> - [Edit distance](https://drive.google.com/file/d/1lWFBCLw0IXKL1BDLNG2yFgMH4AWQBI5u/view?usp=share_link)
 >> - [Global and semi-global alignment](https://drive.google.com/file/d/12Wg-j2WIqRtdHJ0IA1B3G9rQT3h2AZ7F/view?usp=sharing)
 >> - [Local alignment](https://drive.google.com/file/d/1r9TsUndd972eUERwThF46WqT07cq3SSR/view?usp=sharing)
+>> - [Gap penalty](https://drive.google.com/file/d/1Hqs7v3Rzt9Wrl98LkyoX3Vtp1FL58QCR/view?usp=sharing)
