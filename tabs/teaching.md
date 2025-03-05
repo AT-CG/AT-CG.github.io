@@ -40,8 +40,9 @@ A collection of lecture slides on bioinformatics topics:
 >> - [Reversing the BWT](https://drive.google.com/file/d/10D74FIyolzEP91TseQRd1cm8jJGrApTZ/view?usp=share_link)
 >> - [FM-index](https://drive.google.com/file/d/1Nd2Q1kVRobZbf92MSaRVLAzxREmMWG33/view?usp=share_link)
 
->Alignments
+>Sequence alignment
 >> - [Edit distance](https://drive.google.com/file/d/1lWFBCLw0IXKL1BDLNG2yFgMH4AWQBI5u/view?usp=share_link)
 >> - [Global and semi-global alignment](https://drive.google.com/file/d/12Wg-j2WIqRtdHJ0IA1B3G9rQT3h2AZ7F/view?usp=sharing)
 >> - [Local alignment](https://drive.google.com/file/d/1r9TsUndd972eUERwThF46WqT07cq3SSR/view?usp=sharing)
 >> - [Gap penalty](https://drive.google.com/file/d/1Hqs7v3Rzt9Wrl98LkyoX3Vtp1FL58QCR/view?usp=sharing)
+>> - [Statistical significance of alignments](https://drive.google.com/file/d/1M-Y2iT3Xw0EsRKLxXvelgnE51ZTeNv60/view?usp=share_link)
