@@ -21,6 +21,9 @@ type: news
 
 ## **2025**
 
+>Mar
+>> - Lab members [organised outreach activities](https://drive.google.com/file/d/1OHKsLBR56OaRMHMhUStqERCgfQ9o5LuB/view?usp=sharing) on [IISc Open Day](https://openday.iisc.ac.in)
+
 >Feb
 >> - Serving as PC member of [ISMB](https://www.iscb.org/ismbeccb2025/home)
 >> - Chirag gives invited talk at the [Frontiers Symposium in Data Science](https://datascience.iisertvm.ac.in/story/read/conferences-frontiers-symposium-in-data-science-fs-dsc) held at IISER Thiruvananthapuram. Slides [here](https://drive.google.com/file/d/12bu9Vu9ywSZxY_TEUzViY84dDO_YoFH9/view?usp=share_link)
