@@ -22,7 +22,7 @@ type: news
 ## **2025**
 
 >Mar
->> - Lab members [organised outreach activities](https://drive.google.com/file/d/1OHKsLBR56OaRMHMhUStqERCgfQ9o5LuB/view?usp=sharing) on [IISc Open Day](https://openday.iisc.ac.in)
+>> - Lab members [conduct outreach activities](https://drive.google.com/file/d/1OHKsLBR56OaRMHMhUStqERCgfQ9o5LuB/view?usp=sharing) on [IISc Open Day](https://openday.iisc.ac.in)
 
 >Feb
 >> - Serving as PC member of [ISMB](https://www.iscb.org/ismbeccb2025/home)
