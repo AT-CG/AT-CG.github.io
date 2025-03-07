@@ -46,3 +46,7 @@ A collection of lecture slides on bioinformatics topics:
 >> - [Local alignment](https://drive.google.com/file/d/1r9TsUndd972eUERwThF46WqT07cq3SSR/view?usp=sharing)
 >> - [Gap penalty](https://drive.google.com/file/d/1Hqs7v3Rzt9Wrl98LkyoX3Vtp1FL58QCR/view?usp=sharing)
 >> - [Statistical significance of alignments](https://drive.google.com/file/d/1M-Y2iT3Xw0EsRKLxXvelgnE51ZTeNv60/view?usp=share_link)
+
+>Heuristics for sequence alignment
+>> - [Motivation](https://drive.google.com/file/d/18j92mbDtjnvBXcYJXFZuKkdtgC_JEHfu/view?usp=share_link)
+>> - [Maximal unique matches](https://drive.google.com/file/d/1LUqX5rOkx-8qdaaB6gZe10lMZTBORsBN/view?usp=share_link)
